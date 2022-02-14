@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development/React
 - 💞️ I’m looking to collaborate on learing and being mentored 
+- can check my portfolio here! https://lujains-portfolio.herokuapp.com/
 - 📫 How to reach me on lujainmalajmi@gmail.com
 
 <!---
