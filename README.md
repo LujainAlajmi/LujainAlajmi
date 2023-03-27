@@ -7,7 +7,6 @@ Web Developer
 * 🌍  I'm based in Saudi Arabia
 * 🖥️  See my portfolio at [this link](http://portfolio-lujainalajmi.vercel.app)
 * ✉️  You can contact me at [lujainmalajmi@gmail.com](mailto:lujainmalajmi@gmail.com)
-* 🚀  I'm currently working on [IMATECO](http://imateco.com/)
 
 ### Skills
 
